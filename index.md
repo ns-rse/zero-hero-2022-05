@@ -97,6 +97,32 @@ branch by...
 8. Finally users can fast-forward their local copies.
 
 
+## FAQ
+
+### Can/should data be shared on GitHub?
+
+Technically you can, but GitHub isn't really designed for sharing large files. Further there may be data governance
+issues that cover your data. For more information on sharing your data see the [Sharing research data - Research Data
+Management - The University Library - The University of Sheffield](https://www.sheffield.ac.uk/library/rdm/publish).
+
+### Do you need to do anything with SSH/Auth/GPG tokens?
+
+Not at the moment for this project.
+
+### Can you delete changes?
+
+You can but typically you make subsequent commits to revert changes.
+
+### Will we be covering the command line interface?
+
+No, we focus on using
+
+### Does GitKraken pick up files added directly to the local repository?
+
+Yes Git and GitKraken are aware of what is within the repository and which files are being tracked.
+
+### Why do we need to 'stage'?
+It is so that we can choose which changes to which files we wish to push at a given point in time.
 
 # Links
 
