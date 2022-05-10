@@ -1,1 +1,7 @@
 I've got some things to do, this file details what they are.
+
+- Create a repository (done)
+- Add a file for ToDo items (done)
+- Look at the git history (done)
+- Hands-on exercise
+- Pull from Remote
